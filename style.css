@@ -1,0 +1,15 @@
+
+.login-admin{
+  background-image: url(admin/extra-img/background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.login h2{
+  color:#918888;
+}
+.login{
+  margin-top:200px;
+}
+.login-form input{
+  background:none;
+}
